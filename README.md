@@ -1,5 +1,5 @@
 # Bang! Card Game
-This is a C# visual implementation of the Bang! card game. It was originally built using Microsoft's XNA Game Development Framework (now deprecated), but has since been updated to work with [MonoGame](https://www.monogame.net). 
+This is a C# visual implementation of the Bang! card game. It was originally built using Microsoft's XNA Game Development Framework (now deprecated), but has since been updated to work with [MonoGame](http://www.monogame.net). 
 
 In this implementation, only computer players can play against each other. Intelligent AI classes were developed which each cpu use strategically try to get an edge over other players and win. This is only a partial implementation of the game with a few cards and all character roles remaining to be added.
 
